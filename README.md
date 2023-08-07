@@ -1,6 +1,6 @@
-# HeaderParser-Microservice
+# Request-Header-Parser-Microservice
 
-HeaderParser Microservice in NodeJS and Express.
+Request-Header-Parser Microservice in NodeJS and Express.
 
 ## Project Setup
 
